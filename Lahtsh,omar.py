@@ -1,30 +1,12 @@
 ##################################################
 #> >>>>>>help>  https://chat.whatsapp.com/GVUPFI3cNBVKmmtJVG6ea3
 #
-#         ___  __  __    _    ____
-#        / _ \|  \/  |  / \  |  _ \
-#       | | | | |\/| | / _ \ | |_) |
-#       | |_| | |  | |/ ___ \|  _ <
-#        \___/|_|  |_/_/   \_\_| \_\
-#>>>>======================================================
-#  >
-#
-#
-#
-#
-#
-############################################################
-# Decompiled By RandiSr
-# Github : https://github.com/RANDIOLOY
-# uncompyle6 version 3.7.4
-# Python bytecode 2.7
-# Decompiled from: Python 2.7.18 (default, Jul  8 2020, 22:44:54) 
-# [GCC 4.2.1 Compatible Android (5220042 based on r346389c) Clang 8.0.7 (https://
-# Embedded file name: <febry>
+# ##############################################
 import sys, os, time, socket
 import random
 from datetime import datetime
 a = datetime.now().strftime('%Y-%m-%d %H:%M')
+os.system('xdg-open https://www.youtube.com/channel/UC7UHYAjHf-gASPWSHw6sq3A?view_as=subscriber')
 now = datetime.now()
 hour = now.hour
 minute = now.minute
